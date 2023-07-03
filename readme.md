@@ -27,3 +27,18 @@ SQLiteBrowser is an Android-based application that allows you to perform SQLite 
 ## Contributions
 
 This project is solely developed by Furkan COSGUN. However, if you would like to contribute to the project, you can support it by submitting pull requests or reporting issues.
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/furkancosgun/SQLiteBrowser/blob/master/screenshots/query.png?raw=true"/></td>
+    <td><img src="https://github.com/furkancosgun/SQLiteBrowser/blob/master/screenshots/export.png?raw=true"/></td>
+    <td><img src="https://github.com/furkancosgun/SQLiteBrowser/blob/master/screenshots/error.png?raw=true"/></td>
+  </tr>
+  <tr>
+    <td align="center">Query</td>
+    <td align="center">Export / Import Database Files</td>
+    <td align="center">Error Handling</td>
+  </tr>
+</table>
